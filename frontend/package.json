@@ -1,0 +1,16 @@
+{
+  "name": "rehearsal-scheduler-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Band Rehearsal Coordinator",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "axios": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
