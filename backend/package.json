@@ -1,0 +1,16 @@
+{
+  "name": "rehearsal-scheduler-backend",
+  "version": "1.0.0",
+  "description": "Backend for Band Rehearsal Coordinator",
+  "main": "src/index.js",
+  "dependencies": {
+    "express": "^4.18.0",
+    "pg": "^8.7.0",
+    "jsonwebtoken": "^9.0.0",
+    "dotenv": "^16.0.0",
+    "cors": "^2.8.5"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
